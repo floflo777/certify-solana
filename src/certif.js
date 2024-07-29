@@ -25,7 +25,7 @@ async function main() {
     let hash;
     let text;
     if (HASH_TYPE.text) {
-        text = "Hello, Solana!";
+        text = "Hello world !";
         const timestamp = new Date().toISOString();
         const dataToHash = timestamp + text;
         if (TIMESTAMP) {
