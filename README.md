@@ -1,5 +1,8 @@
 # Certify Solana
 
+[![CI](https://github.com/floflo777/certify-solana/actions/workflows/ci.yml/badge.svg)](https://github.com/floflo777/certify-solana/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A lightweight tool to certify text or files on the Solana blockchain using the Memo program. Creates an immutable, timestamped proof of existence for any content by recording its SHA-256 hash on-chain.
 
 ## Use Cases
